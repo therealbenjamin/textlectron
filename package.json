@@ -1,5 +1,8 @@
 {
-  "name"    : "textlectron",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "textlectron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "twilio": "^3.5.0"
+  }
 }
